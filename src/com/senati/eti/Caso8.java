@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Caso8 {
 
 	public static void main(String[] args) {
-Scanner sc = new Scanner(System.in);
+		Scanner sc = new Scanner(System.in);
 		
 		ArrayList<String> arrNombre = new ArrayList<String>();
 		ArrayList<Integer> arrEdad = new ArrayList<Integer>();

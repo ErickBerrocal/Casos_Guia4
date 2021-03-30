@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Caso4 {
 
 	public static void main(String[] args) {
-Scanner sc = new Scanner(System.in);
+		Scanner sc = new Scanner(System.in);
 		
 		//Declarar el arreglo
 		int[]numero = new int[5];
